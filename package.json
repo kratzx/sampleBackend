@@ -1,0 +1,19 @@
+{
+  "name": "samplebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kratzx/sampleBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kratzx/sampleBackend/issues"
+  },
+  "homepage": "https://github.com/kratzx/sampleBackend#readme"
+}
