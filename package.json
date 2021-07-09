@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kratzx/sampleBackend/issues"
   },
-  "homepage": "https://github.com/kratzx/sampleBackend#readme"
+  "homepage": "https://github.com/kratzx/sampleBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
