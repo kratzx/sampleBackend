@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const defaultDir = './database/textfiles/sampleText.txt';
+const defaultDir = './samplefiles/sampleText.txt';
 
 const fileSystem = {
   read: (fileDirectory = defaultDir) => {

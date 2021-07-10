@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "nombre": "Nombre 1",
+      "Precio": "Precio 1",
+      "codigo": "Código 1",
+      "descripcion": "Descripción 1",
+      "categoria": "Categoría 1"
+    },
+    {
+      "id": "2",
+      "nombre": "Nombre 2",
+      "Precio": "Precio 2",
+      "codigo": "Código 2",
+      "descripcion": "Descripción 2",
+      "categoria": "Categoría 2"
+    },
+    {
+      "id": "3",
+      "nombre": "Nombre 3",
+      "Precio": "Precio 3",
+      "codigo": "Código 3",
+      "descripcion": "Descripción 3",
+      "categoria": "Categoría 3"
+    },
+    {
+      "id": "4",
+      "nombre": "Nombre 4",
+      "Precio": "Precio 4",
+      "codigo": "Código 4",
+      "descripcion": "Descripción 4",
+      "categoria": "Categoría 4"
+    },
+    {
+      "id": "5",
+      "nombre": "Nombre 5",
+      "Precio": "Precio 5",
+      "codigo": "Código 5",
+      "descripcion": "Descripción 5",
+      "categoria": "Categoría 5"
+    },
+    {
+      "id": "6",
+      "nombre": "Nombre 6",
+      "Precio": "Precio 6",
+      "codigo": "Código 6",
+      "descripcion": "Descripción 6",
+      "categoria": "Categoría 6"
+    },
+    {
+      "id": "7",
+      "nombre": "Nombre 7",
+      "Precio": "Precio 7",
+      "codigo": "Código 7",
+      "descripcion": "Descripción 7",
+      "categoria": "Categoría 7"
+    }
+  ]
+}
